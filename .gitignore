@@ -1,0 +1,12 @@
+copy_files/
+devel/
+logs/
+build/
+0_trackFiles/
+ipynb_checkpoints/
+
+*.bag
+*.a
+*.so
+*.o
+*.ipynb
