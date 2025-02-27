@@ -4,9 +4,9 @@ logs/
 build/
 0_trackFiles/
 ipynb_checkpoints/
+.Trash-0/
 
 *.bag
 *.a
 *.so
 *.o
-*.ipynb
